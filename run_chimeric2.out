@@ -1,0 +1,265 @@
+nohup: ignoring input
+Sample:  ZS-DNA02
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA02
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 23日 星期四 20:39:51 CST ====================================================START==================================================
+2015年 04月 23日 星期四 20:39:51 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 23日 星期四 21:01:58 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 21:01:58 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 23日 星期四 21:28:27 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 21:28:36 CST 5. Find chimeric transcript
+2015年 04月 23日 星期四 21:31:27 CST 6. Genomic features of chimeric reads
+2015年 04月 23日 星期四 21:31:36 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA03
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA03
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 23日 星期四 21:31:36 CST ====================================================START==================================================
+2015年 04月 23日 星期四 21:31:36 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 23日 星期四 22:00:16 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 22:00:16 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 23日 星期四 22:26:30 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 22:26:50 CST 5. Find chimeric transcript
+2015年 04月 23日 星期四 22:30:10 CST 6. Genomic features of chimeric reads
+2015年 04月 23日 星期四 22:30:17 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA04
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA04
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 23日 星期四 22:30:17 CST ====================================================START==================================================
+2015年 04月 23日 星期四 22:30:17 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 23日 星期四 22:40:52 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 22:40:52 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 23日 星期四 23:03:38 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 23:03:56 CST 5. Find chimeric transcript
+2015年 04月 23日 星期四 23:07:53 CST 6. Genomic features of chimeric reads
+2015年 04月 23日 星期四 23:07:59 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA15
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA15
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 23日 星期四 23:07:59 CST ====================================================START==================================================
+2015年 04月 23日 星期四 23:07:59 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 23日 星期四 23:14:24 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 23:14:24 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 23日 星期四 23:32:28 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 23:32:38 CST 5. Find chimeric transcript
+2015年 04月 23日 星期四 23:35:23 CST 6. Genomic features of chimeric reads
+2015年 04月 23日 星期四 23:35:30 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA06
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA06
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 23日 星期四 23:35:30 CST ====================================================START==================================================
+2015年 04月 23日 星期四 23:35:30 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 23日 星期四 23:42:08 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 23:42:08 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 23日 星期四 23:57:48 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 23日 星期四 23:58:13 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 00:01:05 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 00:01:12 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA07
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA07
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 00:01:12 CST ====================================================START==================================================
+2015年 04月 24日 星期五 00:01:12 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 00:10:57 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 00:10:57 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 24日 星期五 00:33:55 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 00:34:35 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 00:38:30 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 00:38:40 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA08
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA08
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 00:38:40 CST ====================================================START==================================================
+2015年 04月 24日 星期五 00:38:40 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 00:55:29 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 00:55:29 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 24日 星期五 01:30:56 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 01:32:34 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 01:41:22 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 01:41:30 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA13
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA13
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 01:41:30 CST ====================================================START==================================================
+2015年 04月 24日 星期五 01:41:30 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 01:48:47 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 01:48:47 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 02:06:22 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 02:06:35 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 02:09:14 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 02:09:20 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA14
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA14
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 02:09:20 CST ====================================================START==================================================
+2015年 04月 24日 星期五 02:09:20 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 02:16:59 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 02:16:59 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 02:35:34 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 02:35:45 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 02:38:16 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 02:38:21 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA16
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA16
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 02:38:21 CST ====================================================START==================================================
+2015年 04月 24日 星期五 02:38:21 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 02:43:31 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 02:43:31 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 02:56:14 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 02:56:20 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 02:58:11 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 02:58:18 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA17
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA17
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 02:58:18 CST ====================================================START==================================================
+2015年 04月 24日 星期五 02:58:18 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 03:14:58 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 03:14:58 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 24日 星期五 03:43:57 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 03:44:11 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 03:49:42 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 03:49:50 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA18
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA18
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 03:49:50 CST ====================================================START==================================================
+2015年 04月 24日 星期五 03:49:50 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 03:55:32 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 03:55:32 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 04:11:28 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 04:11:48 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 04:14:16 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 04:14:23 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA19
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA19
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 04:14:23 CST ====================================================START==================================================
+2015年 04月 24日 星期五 04:14:23 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 04:22:18 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 04:22:18 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 04:43:46 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 04:44:03 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 04:48:00 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 04:48:08 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA20
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA20
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 04:48:08 CST ====================================================START==================================================
+2015年 04月 24日 星期五 04:48:08 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 04:53:46 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 04:53:46 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 05:08:52 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 05:09:13 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 05:11:57 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 05:12:03 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA21
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA21
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 05:12:03 CST ====================================================START==================================================
+2015年 04月 24日 星期五 05:12:03 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 05:24:33 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 05:24:33 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[bam_sort_core] merging from 16 files...
+2015年 04月 24日 星期五 05:55:07 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 05:56:05 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 05:59:59 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 06:00:05 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA22
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA22
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 06:00:05 CST ====================================================START==================================================
+2015年 04月 24日 星期五 06:00:05 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 06:08:05 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:08:05 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 06:22:19 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:22:58 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 06:25:32 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 06:25:40 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA29
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA29
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 06:25:40 CST ====================================================START==================================================
+2015年 04月 24日 星期五 06:25:40 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 06:32:35 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:32:35 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+2015年 04月 24日 星期五 06:46:24 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:46:41 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 06:49:18 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 06:49:24 CST ====================================================FINISHED==================================================
+Sample:  ZS-DNA28
+output directory:  /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28
+viral annotation:  AP011098.1
+CPU:  8
+Mapping mismatch:  0
+2015年 04月 24日 星期五 06:49:24 CST ====================================================START==================================================
+2015年 04月 24日 星期五 06:49:24 CST  1. Mapping input reads to rRNA and multiT with Bowtie
+2015年 04月 24日 星期五 06:49:24 CST # OMITTED:2. Mapping x_rRNA pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:49:24 CST 3. Mapping x_rRNA pair end reads to hg19
+[samopen] SAM header is present: 25 sequences.
+[sam_read1] reference 'SN:chrY	LN:59373566
+
+
+R_2.3.1z_r395	CL:STAR   --runMode alignReads   --runThreadN 8   --genomeDir /mnt/Storage/home/tuser/fusl/pipipes/piPipes-master/common/hg19/STARIndex/   --genomeLoad NoSharedMemory   --readFilesIn /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/input_read_files/ZS-DNA28.x_rRNA_Ts.1.fq   /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/input_read_files/ZS-DNA28.x_rRNA_Ts.2.fq      --limitOutSAMoneReadBytes 1000000   --outFileNamePrefix /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/genome_mapping/ZS-DNA28.x_rRNA_Ts.hg19.   --outReadsUnmapped Fastx   --outSAMunmapped None   --outSJfilterReads Unique   --outFilterMultimapNmax 18446744073709551615   --outFilterMultimapScoreRange 1   --outFilterScoreMin 0   --outFilterScoreMinOverLread 0.72   --outFilterMatchNmin 0   --outFilterMatchNminOverLread 0.72   --outFilterMismatchNmax 10   --outFilterMismatchNoverLmax 0.05   --outFilterIntronMotifs RemoveNoncanonicalUnannotated   --seedSearchStartLmax 20   --seedSearchStartLmaxOverLread 1   --alignIntronMin 21   --alignIntronMax 0   --chimSegmentMin 0	cl:STAR --runMode alignReads --limitOutSAMoneReadBytes 1000000 --genomeDir /mnt/Storage/home/tuser/fusl/pipipes/piPipes-master/common/hg19/STARIndex/ --readFilesIn /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/input_read_files/ZS-DNA28.x_rRNA_Ts.1.fq /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/input_read_files/ZS-DNA28.x_rRNA_Ts.2.fq --runThreadN 8 --outFilterScoreMin 0 --outFilterScoreMinOverLread 0.72 --outFilterMatchNmin 0 --outFilterMatchNminOverLread 0.72 --outFilterMultimapScoreRange 1 --outFilterMultimapNmax -1 --outFilterMismatchNmax 10 --outFilterMismatchNoverLmax 0.05 --alignIntronMax 0 --alignIntronMin 21 --outFilterIntronMotifs RemoveNoncanonicalUnannotated --genomeLoad NoSharedMemory --outFileNamePrefix /mnt/Storage2/home/tuser/guch/DNAseq/chimeric/ZS-DNA28/genome_mapping/ZS-DNA28.x_rRNA_Ts.hg19. --outSAMunmapped None --outReadsUnmapped Fastx --outSJfilterReads Unique --seedSearchStartLmax 20 --seedSearchStartLmaxOverLread 1.0 --chimSegmentMin 0
+' is recognized as '*'.
+[main_samview] truncated file.
+2015年 04月 24日 星期五 06:49:46 CST 4. Mapping x_rRNA.x_hg19 pair end reads to custom genome with bowtie
+2015年 04月 24日 星期五 06:49:46 CST 5. Find chimeric transcript
+2015年 04月 24日 星期五 06:49:47 CST 6. Genomic features of chimeric reads
+2015年 04月 24日 星期五 06:49:52 CST ====================================================FINISHED==================================================
